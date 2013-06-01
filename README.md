@@ -1,7 +1,5 @@
-free-jquery-mobile-icon-pack
-============================
-
 FREE JQUERY MOBILE ICON PACK!
+============================
 
 Made by Freepik.com exclusively for jQuery4u.com.
 
